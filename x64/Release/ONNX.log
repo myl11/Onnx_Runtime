@@ -1,0 +1,19 @@
+﻿  ONNX.cpp
+C:\Users\320106685\source\repos\ONNX\ONNX.cpp(85,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\320106685\source\repos\ONNX\ONNX.cpp(88,45): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\320106685\source\repos\ONNX\ONNX.cpp(89,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\320106685\source\repos\ONNX\ONNX.cpp(97,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\320106685\source\repos\ONNX\ONNX.cpp(100,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\320106685\source\repos\ONNX\ONNX.cpp(101,42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\320106685\source\repos\ONNX\ONNX.cpp(137,11): warning C4101: 'b': unreferenced local variable
+C:\Users\320106685\source\repos\ONNX\ONNX.cpp(319,19): warning C4244: 'initializing': conversion from '_Rep' to 'float', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+  Generating code
+  365 of 376 functions (97.1%) were compiled, the rest were copied from previous compilation.
+    302 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ONNX.vcxproj -> C:\Users\320106685\source\repos\ONNX\x64\Release\ONNX.exe

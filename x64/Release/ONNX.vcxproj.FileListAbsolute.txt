@@ -1,0 +1,3 @@
+C:\Users\320106685\source\repos\ONNX\x64\Release\onnxruntime.dll
+C:\Users\320106685\source\repos\ONNX\x64\Release\onnxruntime_providers_shared.dll
+C:\Users\320106685\source\repos\ONNX\x64\Release\ONNX.exe
